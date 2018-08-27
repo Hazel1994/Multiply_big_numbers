@@ -1,4 +1,4 @@
-multiplying big numbers without using arrays is a common problem in algorithm design.
+multiplying big numbers using arrays is a common problem in algorithm design.
 
 here is the implantation of this problem in java using only one array.
 
